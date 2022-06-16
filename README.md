@@ -1,8 +1,8 @@
 # ⚡Stats
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=XI1411-AnkurSaxena&count_private=true" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=XI1411-AnkurSaxena&count_private=true&theme=dark" alt="Stats">
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XI1411-AnkurSaxena&theme=default" alt="Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XI1411-AnkurSaxena&theme=default&theme=dark" alt="Streak">
 <br>
 </p>
 
