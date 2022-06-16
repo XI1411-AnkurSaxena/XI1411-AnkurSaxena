@@ -16,7 +16,7 @@
 <p align=center>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ankurrrsaxenaaa&cover_image=true&theme=default" alt="Now Playing"> 
 <br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=ankurrrsaxenaaa&width=600&unique=true" alt="Recently Played"> 
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ankurrrsaxenaaa&width=1000&unique=true" alt="Recently Played"> 
 <br>
 </p>
 <!--
