@@ -2,7 +2,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XI1411-AnkurSaxena&theme=default)
 ![Ankur's github activity graph](https://activity-graph.herokuapp.com/graph?username=XI1411-AnkurSaxena&theme=xcode)
 
-
+![Visitor Count](https : //profile-counter.glitch.me/XI1411-AnkurSaxena/count.svg)
 
 <!--
 **XI1411-AnkurSaxena/XI1411-AnkurSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
