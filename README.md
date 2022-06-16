@@ -1,4 +1,4 @@
-# ⚡My stats
+# ⚡Stats
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=XI1411-AnkurSaxena&count_private=true" alt="Stats">
 <br>
