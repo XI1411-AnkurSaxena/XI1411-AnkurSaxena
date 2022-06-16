@@ -1,18 +1,24 @@
-# My stats
-<img src="https://github-readme-stats.vercel.app/api?username=XI1411-AnkurSaxena&count_private=true" alt="Stats" class="center">
+# ⚡My stats
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=XI1411-AnkurSaxena&count_private=true" alt="Stats">
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XI1411-AnkurSaxena&theme=default" alt="Streak" class="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XI1411-AnkurSaxena&theme=default" alt="Streak">
 <br>
+</p>
 
-# Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=XI1411-AnkurSaxena&theme=xcode" alt="Contribution Graph" class="center">
+# 🌱Contribution Graph
+<p align=center>
+<img src="https://activity-graph.herokuapp.com/graph?username=XI1411-AnkurSaxena&theme=xcode" alt="Contribution Graph">
 <br>
+</p>
 
-# Music Stats
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ankurrrsaxenaaa&cover_image=true&theme=default" alt="Now Playing" class="center"> 
+# 🎵 Music Stats
+<p align=center>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ankurrrsaxenaaa&cover_image=true&theme=default" alt="Now Playing"> 
 <br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=ankurrrsaxenaaa&width=600&unique=true" alt="Recently Played" class="center"> 
-![Recently played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ankurrrsaxenaaa&width=600&unique=true)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ankurrrsaxenaaa&width=600&unique=true" alt="Recently Played"> 
+<br>
+</p>
 <!--
 **XI1411-AnkurSaxena/XI1411-AnkurSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,5 +31,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
