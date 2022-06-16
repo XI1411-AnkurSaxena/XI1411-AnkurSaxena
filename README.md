@@ -1,4 +1,4 @@
-![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=XI1411-AnkurSaxena&count_private=true)
+![Ankur's Stats](https://github-readme-stats.vercel.app/api?username=XI1411-AnkurSaxena&count_private=true)
 <!--
 **XI1411-AnkurSaxena/XI1411-AnkurSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
