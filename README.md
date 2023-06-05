@@ -6,12 +6,6 @@
 <br>
 </p>
 
-# 🌱Contribution Graph
-<p align=center>
-<img src="https://activity-graph.herokuapp.com/graph?username=XI1411-AnkurSaxena&theme=xcode" alt="Contribution Graph">
-<br>
-</p>
-
 # 🎵 Music Stats
 <p align=center>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ankurrrsaxenaaa&cover_image=true&theme=default" alt="Now Playing"> 
