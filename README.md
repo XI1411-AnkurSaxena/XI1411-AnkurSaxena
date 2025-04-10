@@ -8,7 +8,7 @@
 
 # 🎵 Music Stats
 <p align=center>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ff9d025a66634b61b155a8304268f8b3&cover_image=true&theme=default" alt="Now Playing"> 
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ankurrrsaxenaaa&cover_image=true&theme=default" alt="Now Playing"> 
 <br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=ankurrrsaxenaaa&width=1000&unique=true" alt="Recently Played"> 
 <br>
