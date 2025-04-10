@@ -1,7 +1,8 @@
 # ⚡Stats
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=XI1411-AnkurSaxena&count_private=true&theme=dark" alt="Stats">
-![Ankur's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=XI1411-AnkurSaxena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Ankur's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=XI1411-AnkurSaxena&layout=compact)
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XI1411-AnkurSaxena&theme=default&theme=dark" alt="Streak">
 <br>
